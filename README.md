@@ -1,16 +1,15 @@
-# day_3_tapsiriq
+# Day 2 task
 
-Day 3 duzgun implementasiya
+Day 4 üçün task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tapşırıqlar :
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. String dəyişəni və double dəyişəni elan edit ekranda göstərin
+2. Araşdırma : long dəyişənində istifadə edərək dəyişən yaradın və qiymət
+mənimsədib ekrana çapa verin.
+3. **(Çətin task) Məntiq tipli dəyişən elan edin və ekrana çapa verin
+   
+Bu reponu download etməzdən əvvəl mütləq özünüz cəhd edin 
+sonra burdakı düzgün cavablara baxın.
