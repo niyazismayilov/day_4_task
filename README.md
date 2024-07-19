@@ -1,4 +1,4 @@
-# Day 2 task
+# Day 4 task
 
 Day 4 üçün task.
 
